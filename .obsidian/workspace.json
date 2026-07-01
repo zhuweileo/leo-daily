@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "d8caad9c3df64c66",
+    "type": "split",
+    "children": [
+      {
+        "id": "8337d35747166e39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbd61ae8c1cbabde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/ChromeDevToolschrome-devtools-mcp Chrome DevTools for coding agents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ChromeDevToolschrome-devtools-mcp Chrome DevTools for coding agents"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cff1c33d4182fb7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d7610be312ca310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b381295311c1e78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1d74cf8820e5e3b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3004d833e8f0587c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4afbc7640c797b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfa36662d47fb6a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "772a9517a2f78eb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/ChromeDevToolschrome-devtools-mcp Chrome DevTools for coding agents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ChromeDevToolschrome-devtools-mcp Chrome DevTools for coding agents 的反向链接列表"
+            }
+          },
+          {
+            "id": "e987eac40f2a773b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/ChromeDevToolschrome-devtools-mcp Chrome DevTools for coding agents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ChromeDevToolschrome-devtools-mcp Chrome DevTools for coding agents 的出链列表"
+            }
+          },
+          {
+            "id": "48ac2a4d61c76930",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ac1af7cd9f2d3696",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f30d5e79a1427825",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/ChromeDevToolschrome-devtools-mcp Chrome DevTools for coding agents.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ChromeDevToolschrome-devtools-mcp Chrome DevTools for coding agents 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "7b381295311c1e78",
+  "lastOpenFiles": [
+    "wiki/concepts/chrome-devtools-mcp.md",
+    "wiki/concepts/mcp-protocol.md",
+    "wiki/entities/puppeteer.md",
+    "wiki/entities/chrome-devtools.md",
+    "wiki/sources/chrome-devtools-mcp.md",
+    "raw/llm-wiki.md",
+    "raw/ChromeDevToolschrome-devtools-mcp Chrome DevTools for coding agents.md",
+    "README.md",
+    "raw/NicholasSpisaksecond-brain LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern..md",
+    "wiki/index.md",
+    "wiki/index.md.tmp.41567.7f6b02bdb0e1",
+    "wiki/concepts/lint-operation.md",
+    "wiki/concepts/query-operation.md",
+    "wiki/concepts/ingest-operation.md",
+    "wiki/concepts/persistent-compounding-artifact.md",
+    "wiki/concepts/memex.md",
+    "wiki/concepts/three-layer-architecture.md",
+    "wiki/concepts/rag-vs-wiki.md",
+    "wiki/concepts/llm-wiki-pattern.md",
+    "wiki/entities/vannevar-bush.md",
+    "wiki/entities/agent-skills.md",
+    "wiki/entities/claude-code.md",
+    "wiki/entities/obsidian.md",
+    "wiki/entities/nicholas-spisak.md",
+    "wiki/entities/andrej-karpathy.md",
+    "wiki/sources/llm-wiki.md",
+    "wiki/sources/second-brain.md",
+    "Clippings"
+  ]
+}
